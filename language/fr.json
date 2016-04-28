@@ -15,7 +15,8 @@
           "description": "Ce texte sera affiché avant le démarrage du quiz."
         },
         {
-          "label": "Texte du bouton de démarrage"
+          "label": "Texte du bouton de démarrage",
+          "default": "Commencer"
         },
         {
           "label": "Image d'arrière-plan",
